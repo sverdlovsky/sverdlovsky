@@ -1,6 +1,6 @@
 # Sverdlovsky
 
-I enjoy exploring new technologies, experimenting, and developing high-quality software that’s polished down to the smallest detail.
+Just another technologies exploring, experimenting, and high-quality software developing enjoyer.
 
 ## Main Areas of Focus
 - DevOps
