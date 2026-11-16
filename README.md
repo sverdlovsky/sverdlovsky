@@ -21,7 +21,7 @@ Just another technologies exploring, experimenting, and high-quality software de
 ## Projects
 - [Core Edu](https://github.com/sverdlovsky/core-edu) — A service for learning vocabulary that extends the Anki approach
 - [SimpleVideoHosting](https://github.com/sverdlovsky/simple-video-hosting) — Video sharing service
-- [OpenDecIoTSolution](https://github.com/sverdlovsky/open-dec-iot-solution) — My own IoT infrastracture
+- [OpenIoT](https://github.com/sverdlovsky/open-iot) — My own IoT infrastracture
 - [Shade](https://github.com/sverdlovsky/shade) — Discord bot with NLP and CV elements
 - [SSS](https://github.com/sverdlovsky/sss) — Files sync app
 - [YAOAE](https://github.com/sverdlovsky/yet-another-oauth-endpoint) — App for passwordless authentication with OAuth and Email Magic Link
